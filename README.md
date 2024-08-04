@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mut_rogers<br>👀 I’m interested in Python, Django, Cloud, and BI...<br>🌱 I’m currently learning Google Cloud Platform (GCP)...<br>💞️ I’m looking to collaborate on Django Full stack project...<br>📫 How to reach me: rogersmacharia77@gmail.com...<br><br>⚡FUN FACT: FIRST, solve the problem, THEN, write the code!
+👋 Hi, I’m @mut_rogers<br>👀 I’m interested in Python, Data Analytics, Cloud, and BI...<br>🌱 I’m currently learning Data Analytics...<br>💞️ I’m looking to collaborate on Django Full stack data project...<br>📫 How to reach me: rogersmacharia77@gmail.com...<br><br>⚡FUN FACT: FIRST, solve the problem, THEN, write the code!
 
 
 ## 🌐 Socials:
